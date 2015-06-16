@@ -52,7 +52,7 @@ From a conversation with anon
 
 ##### What makes one happy?
 
-Post from The Breakout List, <a href="">##not yet published##</a>
+Post from The Breakout List, <a href="https://medium.com/@BreakoutList/breakout-careers-and-the-science-of-happiness-d1f924822ba1">Happiness science for breakout careers</a>
 
 > Coherent story: Understand your life in terms of a coherent story. Seriously, attempt to write out the main points of a novel that may be written about your life.
 > 
