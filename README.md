@@ -464,6 +464,8 @@ Read the following:
 
 [Employee Equity: The Liquidation Overhang](http://avc.com/2010/10/employee-equity-the-liquidation-overhang/)
 
+[Why you don't want to be a unicorn](https://medium.com/@BreakoutList/why-you-don-t-want-to-be-a-unicorn-eb0777c96d3a)
+
 [Focus on your share price, not your valuation](http://venturehacks.com/articles/share-price)
 
 ##### Decision exercise
