@@ -6,7 +6,7 @@ These notes begin at defining a life goal, transition to thinking about a career
 
 Given the significant proportion of time you spend on your career, it's worth some thought. This is an attempt at a deliberate understatement.
 
-_One quick hack to optimize your career: put in a lot of thought, think long term, and then "let the score take care of itself."_
+_One "quick hack" to optimize your career: put in a lot of thought and think long term._
 
 #### Step 0: What should I do with my life?
 
