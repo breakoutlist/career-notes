@@ -1,7 +1,5 @@
 ## Career Notes for Engineers and Designers
 
-Hosted on [The Breakout List](http://www.breakoutlist.com/career-guide)
-
 These notes begin at defining a life goal, transition to thinking about a career, then whether you should join a startup, what company you should join, how to apply, and how to decide between offers/companies.
 
 Given the significant proportion of time you spend on your career, it's worth some thought. This is an attempt at a deliberate understatement.
@@ -539,3 +537,5 @@ Think about your tribe, and be aware that life is generally best played long.
 Star this repository.
 
 Make use of this guide to better your career.
+
+Hosted on [The Breakout List](http://www.breakoutlist.com/career-guide)
