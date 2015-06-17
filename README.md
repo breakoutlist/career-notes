@@ -44,10 +44,6 @@ Excerpt from [interview with Jeff Bezos](http://www.achievement.org/autodoc/prin
 > 
 > Another thing that I would recommend to people is that they always take a long-term point of view. I think this is something about which there's a lot of controversy. A lot of people -- and I'm just not one of them -- believe that you should live for the now. I think what you do is think about the great expanse of time ahead of you and try to make sure that you're planning for that in a way that's going to leave you ultimately satisfied. This is the way it works for me. There are a lot of paths to satisfaction and you need to find one that works for you.
 
-From a conversation with anon
-
-> What is the intersection of things that are interesting to me and that the world needs?
-
 ##### What makes one happy?
 
 Post from The Breakout List, <a href="https://medium.com/@BreakoutList/breakout-careers-and-the-science-of-happiness-d1f924822ba1">Happiness science for breakout careers</a>
@@ -89,6 +85,12 @@ Excerpt from Poor Charlie's Almanack, by Charlie Munger (p. 450)
 Post by David Lee, ['Follow Your Interest'](http://daslee.me/follow-your-interest)
 
 > I found that a better - or more practical - heuristic is doing what interests you or piques your curiosity. Or generally, what just feels “right” for you. Not what you’re supposed to do - as dictated by peer pressure, family pressure, or self-inflicted pressure.
+
+From a conversation with _anon_
+
+> I don't do any career goals or anything like that.
+> 
+> I try and do things that are a) interesting to me and b) that the world needs.
 
 ##### On career planning
 
