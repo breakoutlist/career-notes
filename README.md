@@ -540,4 +540,4 @@ Star this repository.
 
 Make use of this guide to better your career.
 
-Hosted on [The Breakout List](http://www.breakoutlist.com/career-guide)
+Hosted on [Breakout Careers](http://www.breakoutcareers.com/)
