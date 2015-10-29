@@ -278,7 +278,7 @@ Excerpt from [interview with Jeff Bezos](http://www.achievement.org/autodoc/prin
 
 ##### Where can I discover good companies to join?
 
-Check out [Wealthfront's list.](https://blog.wealthfront.com/107-career-launching-tech-companies/)
+Check out [Wealthfront's list.](https://blog.wealthfront.com/2016-career-launching-companies-list/)
 
 Check out the portfolio lists of the best venture capitalists and angel investors.
 
